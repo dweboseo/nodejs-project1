@@ -1,0 +1,1 @@
+Hi, this file is created to store Nosql code for MongoDb
